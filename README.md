@@ -6,6 +6,24 @@ A professional Python-based conversational chatbot demonstrating fundamental AI 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-success.svg)]()
 
+---
+
+## 📸 Project Demo
+
+### Chatbot in Action
+![Chatbot Demo](screenshots/chatbot_demo.png)
+*Interactive conversation showing greetings, questions, and responses*
+
+### Code Structure
+![Code View](screenshots/code_view.png)
+*Clean, well-documented Python code with modular functions*
+
+### Help System
+![Help Command](screenshots/help_command.png)
+*Built-in help menu showing all available commands*
+
+---
+
 ## 📋 Project Overview
 
 This project implements a rule-based chatbot using pure Python with if-else conditional logic. Built as part of an AI internship, it demonstrates core programming concepts, software design principles, and fundamental artificial intelligence patterns.
